@@ -9,12 +9,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -434690030, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
-  m_Name: The47TOC
+  m_Name: TimwiMissionsTOC
   m_EditorClassIdentifier: 
-  Title: The 47
+  Title: "Timwi\u2019s Missions"
   Sections:
   - Title: The 47
     MissionIDs:
     - TheWarmup
     - TheWorkout
     - The47Mission
+  - Title: The Greatest Missions
+    MissionIDs:
+    - RewriteTheStars

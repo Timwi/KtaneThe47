@@ -11,12 +11,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: The47
-  title: The 47
-  description: 'At last, a bomb with exactly the correct number of modules.
-
-
-    All modules created by Timwi.'
+  id: TimwiMissions
+  title: "Timwi\u2019s KTANE Missions"
+  author: Timwi
+  description: Mission pack with challenge bombs ranging from 11 modules to ... many
+    more.
   version: 1.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: fa315e1aeae82f542a5da22d2844e5e5, type: 3}
