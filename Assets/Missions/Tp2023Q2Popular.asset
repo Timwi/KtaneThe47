@@ -14,7 +14,7 @@ MonoBehaviour:
   DisplayName: TP Extravaganza Q2 2023
   Description: Modules that were popular on TP in Q2 of 2023.
   GeneratorSetting:
-    TimeLimit: 5267
+    TimeLimit: 6467
     NumStrikes: 9
     TimeBeforeNeedyActivation: 90
     FrontFaceOnly: 0
@@ -204,7 +204,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - sysadmin
+      - double_on
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 02000000
