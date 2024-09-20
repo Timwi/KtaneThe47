@@ -1,0 +1,10 @@
+{
+  "name": "TimwiMissions-Editor",
+  "references": [
+    "TimwiMissions"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
