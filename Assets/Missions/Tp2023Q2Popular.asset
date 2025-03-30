@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: -548183353, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: Tp2023Q2Popular
   m_EditorClassIdentifier: 
-  DisplayName: TP Extravaganza Q2 2023
-  Description: Modules that were popular on TP in Q2 of 2023.
+  DisplayName: TP Extravaganza 2
+  Description: Modules that were popular on TP in mid-2023.
   GeneratorSetting:
     TimeLimit: 6467
     NumStrikes: 9
